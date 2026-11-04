@@ -182,3 +182,19 @@ The dataset covers transactions from December 2010 through January 2014. Decembe
 ## 10. License
 
 This repository retains the original MIT License and copyright notice applicable to the reused source material. See the `LICENSE` file for details.
+
+
+## Power BI Sales Dashboard
+
+An interactive sales performance dashboard built with
+Power BI and SQL Server.
+
+### Key Features
+- Revenue, Orders, Customers, Products, and Quantity KPIs
+- Top 8 Best-Selling Products
+- Sales Revenue by Country
+- Monthly Sales Trend
+
+### Dashboard Preview
+
+![Sales Performance Dashboard](05_dashboard/dashboard_preview.png)
